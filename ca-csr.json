@@ -1,0 +1,20 @@
+{
+    "CN": "My Fake CA",
+    "hosts": [
+        "example.net",
+        "www.example.net"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "CO",
+            "O": "My Company",
+            "ST": "Lyons",
+            "OU": "Some Org Unit"
+        }
+    ]
+}
